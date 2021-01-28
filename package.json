@@ -1,0 +1,27 @@
+{
+  "name": "toy-bundler",
+  "version": "1.0.0",
+  "description": "javaScript,babel.AST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c2kaka/toy-bundler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c2kaka/toy-bundler/issues"
+  },
+  "homepage": "https://github.com/c2kaka/toy-bundler#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/parser": "^7.12.11",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/traverse": "^7.12.12",
+    "resolve": "^1.19.0"
+  }
+}
